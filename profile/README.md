@@ -4,6 +4,6 @@
 
 > ✨ Private *Beta* available Aug 26, 2026.
 >
-> ✨ Public *Beta* available Aug 30, 2026. 
+> ✨ Public *Beta* available **Aug 30**, 2026. 
 
 ![](./announcement.webp)
